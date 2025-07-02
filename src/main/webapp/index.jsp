@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
   <meta charset="UTF-8">
-  <title>Emoji Test</title>
+  <title>My Web App</title>
 </head>
 <body>
-  <h1>Hello Midhun! 🌟🚀🔥💪</h1>
-  <p>This is deployed from Jenkins CI/CD pipeline.</p>
+  <h1>Welcome to My Web App</h1>
+  <p>This page is deployed using Jenkins CI/CD Pipeline.</p>
 </body>
 </html>

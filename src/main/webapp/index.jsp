@@ -2,26 +2,17 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Welcome Page</title>
-  <style>
-    body {
-      background-color: #f0f0f0;
-      font-family: Arial, sans-serif;
-      text-align: center;
-      padding-top: 100px;
-    }
-    h1 {
-      color: #333;
-    }
-    p {
-      color: #666;
-      font-size: 18px;
-    }
-  </style>
+  <title>Emoji Test 🚀</title>
 </head>
 <body>
-  <h1>Welcome to My Web App!</h1>
-  <p>This is the main index.html page served by Jenkins after deployment.</p>
+  <h1>Hello, DevOps Engineer! 👨‍💻</h1>
+  <p>Welcome to your deployment page! 🎉</p>
+  <p>Status: <strong>✅ Successfully Deployed!</strong></p>
+  <p>Weather: ☀️ 🌧️ 🌈</p>
+  <p>Celebration: 🥳 🎂 🍰 🎈</p>
+  <p>Animals: 🐶 🐱 🐵 🐘</p>
+  <p>Flags: 🇮🇳 🇺🇸 🇬🇧 🇯🇵</p>
 </body>
 </html>
+
 

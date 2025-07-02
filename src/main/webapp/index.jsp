@@ -7,7 +7,7 @@
 </head>
 <body>
   <div class="jumbotron" style="background-color:white">
-    <h2 class="text-center">🚀 Version 4.0 — Deployed via GitHub CI/CD by Mid-hxn 07 ✅  2/07/2025 one click deployment ..</h2>
+    <h2 class="text-center"> Version 4.0 — Deployed via GitHub CI/CD by Mid-hxn 07   2/07/2025 one click deployment ..</h2>
   </div>
 </body>
 </html>

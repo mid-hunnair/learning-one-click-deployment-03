@@ -24,6 +24,6 @@
 </head>
 <body>
   <h1>Welcome to My Web App</h1>
-  <p>This page is styled with CSS and deployed through Jenkins CI/CD.</p>
+  <p>This page is styled with CSS and deployed through Jenkins CI/CD.   And Finally i understand how the ci-cd pipeline is working...</p>
 </body>
 </html>
